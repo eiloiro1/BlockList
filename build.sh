@@ -3,7 +3,7 @@
 set -euo pipefail
 
 SOURCE="https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts"
-OUTPUT="social-vitta.txt"
+OUTPUT="block/social-vitta.txt"
 
 TMP="$(mktemp)"
 

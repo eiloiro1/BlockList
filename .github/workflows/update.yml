@@ -26,12 +26,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add social-vitta.txt
+          git add block/social-vitta.txt
 
           if git diff --cached --quiet; then
             echo "Nenhuma alteracao."
             exit 0
           fi
 
-          git commit -m "Atualiza social-vitta.txt"
+          git commit -m "Atualiza block/social-vitta.txt"
           git push
