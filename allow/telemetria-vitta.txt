@@ -1,0 +1,7 @@
+mobile.events.data.microsoft.com
+watson.events.data.microsoft.com
+teams.events.data.microsoft.com
+dc.services.visualstudio.com
+fp.msedge.net
+footprintdns.com
+azr.footprintdns.com
