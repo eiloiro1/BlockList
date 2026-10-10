@@ -2,7 +2,7 @@
 # Baseada em StevenBlack social-only
 # WhatsApp permitido
 # YouTube permitido
-# Gerado automaticamente em: 2026-10-09 13:18:59 UTC
+# Gerado automaticamente em: 2026-10-10 12:33:48 UTC
 
 0.0.0.0 0-act.channel.facebook.com
 0.0.0.0 0-edge-chat.facebook.com
